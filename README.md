@@ -4,5 +4,5 @@ a) My first task is to make a web page and I think that this course is very inte
 
 ## References
 
-http://TeroKarvinen.com
+https://TeroKarvinen.com
 
